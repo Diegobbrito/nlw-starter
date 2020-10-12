@@ -1,7 +1,5 @@
 <h1 align=center>
 <img src="https://raw.githubusercontent.com/Diegobbrito/nextlevelweek/master/mobile/assets/logonlw.svg" /><br/><br/>
-<img src="public/assets/logo.svg"/>
-  
 </h1>
 
 <h3 align="center">
